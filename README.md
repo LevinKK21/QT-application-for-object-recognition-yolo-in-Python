@@ -2,6 +2,9 @@
 QT application for object recognition (yolo) in Python
 
 
+
+!!!!!!!!!!!!!!!!!!!!!!!weight files weigh a lot, so I left a link to the cloud storage!!!!!!!!!!!!!!!!!!
+
 IF U WONA DOWNLOAD APP ON YOUR PC :DOWNLOAD ALL FILES IN REPOSITORI
 
 There are Qt app(.exe), but if u wona view code open yolo.py
@@ -28,7 +31,7 @@ Weigts were received in other code for learning neural network.
 
 
 ////////////////RU\\\\\\\\\\\\\\\\
-
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!файлы весов очень много весят , поэтому я оставил ссылку на облачное хранилище!!!!!!!!!!!!!!!!!!!!!!!
 
 ЕСЛИ ХОТИТЕ СКАЧАТЬ ПРИЛОЖЕНИЕ НА ВАШ ПК: СКАЧАQNT ВСЕ ФАЙЛЫ В ХРАНИЛИЩЕ
 
